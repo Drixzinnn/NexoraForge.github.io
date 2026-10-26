@@ -4,24 +4,25 @@
 4:I[37457,["$2"],"default"]
 5:"/NexoraForge.github.io/_next/static/chunks/2n5qeheznvl4u.js"
 6:I[22016,["$2","$5"],""]
-a:"/NexoraForge.github.io/_next/static/chunks/3son1o3vnfm-7.js"
-b:I[68493,["$2","$a"],"ForgeWorkspace"]
-c:I[97367,["$2"],"OutletBoundary"]
-d:"$Sreact.suspense"
-f:"ViewportBoundary"
-10:I[97367,["$2"],"$f"]
-12:"MetadataBoundary"
-13:I[97367,["$2"],"$12"]
-15:I[68027,["$2"],"default",1]
+a:"/NexoraForge.github.io/_next/static/chunks/1z8dnxm-07q16.js"
+b:I[3020,["$2","$a"],"SiteHeader"]
+c:I[68493,["$2","$a"],"ForgeWorkspace"]
+d:I[97367,["$2"],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[97367,["$2"],"$10"]
+13:"MetadataBoundary"
+14:I[97367,["$2"],"$13"]
+16:I[68027,["$2"],"default",1]
 :HL["/NexoraForge.github.io/_next/static/chunks/2o7_pu9nf0mfn.css","style"]
 :HL["/NexoraForge.github.io/_next/static/media/07a39a8a4660cc7c-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/NexoraForge.github.io/_next/static/media/605ce01b664af129-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 8:X
-9:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"flex h-[calc(100dvh-4rem)] flex-col","children":["$","$Lb",null,{}]}],[["$","script","script-0",{"src":"/NexoraForge.github.io/_next/static/chunks/3son1o3vnfm-7.js","async":true,"nonce":"$undefined"}]],["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":false,"v":null}}]]
+9:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"flex h-[calc(100dvh-4rem)] flex-col","children":[["$","$Lb",null,{}],["$","div",null,{"className":"flex min-h-0 flex-1 flex-col","children":["$","$Lc",null,{}]}]]}],[["$","script","script-0",{"src":"/NexoraForge.github.io/_next/static/chunks/1z8dnxm-07q16.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":false,"v":null}}]]
 7:[["children",{"s":"criar","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$8"},"c":"$Q9"}]]
-0:{"P":null,"c":["","criar",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/NexoraForge.github.io/_next/static/chunks/2o7_pu9nf0mfn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/NexoraForge.github.io/_next/static/chunks/0umf92h1sb77c.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"pt-BR","className":"T19VSG_variable _8Li5zG_variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"mx-auto flex w-full max-w-xl flex-col items-center px-5 py-28 text-center","children":[["$","span",null,{"className":"font-mono text-6xl font-semibold text-border","children":"404"}],["$","h1",null,{"className":"mt-6 text-xl font-semibold tracking-tight","children":"Página não encontrada"}],["$","p",null,{"className":"mt-2 text-sm text-muted","children":"O endereço que você tentou acessar não existe ou foi movido."}],["$","$L6",null,{"href":"/","className":"mt-7 rounded-lg bg-gradient-to-r from-accent to-accent-2 px-5 py-2.5 text-sm font-semibold text-[#08120e] transition hover:brightness-110","children":"Voltar ao início"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],"p":false,"v":null},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$L11"}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":"$L14"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$15",[["$","link","0",{"rel":"stylesheet","href":"/NexoraForge.github.io/_next/static/chunks/2o7_pu9nf0mfn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"XHyFZHeHtPg_Ed-aF5Cav"}
+0:{"P":null,"c":["","criar",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/NexoraForge.github.io/_next/static/chunks/2o7_pu9nf0mfn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/NexoraForge.github.io/_next/static/chunks/0umf92h1sb77c.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"pt-BR","className":"T19VSG_variable _8Li5zG_variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"mx-auto flex w-full max-w-xl flex-col items-center px-5 py-28 text-center","children":[["$","span",null,{"className":"font-mono text-6xl font-semibold text-border","children":"404"}],["$","h1",null,{"className":"mt-6 text-xl font-semibold tracking-tight","children":"Página não encontrada"}],["$","p",null,{"className":"mt-2 text-sm text-muted","children":"O endereço que você tentou acessar não existe ou foi movido."}],["$","$L6",null,{"href":"/","className":"mt-7 rounded-lg bg-gradient-to-r from-accent to-accent-2 px-5 py-2.5 text-sm font-semibold text-[#08120e] transition hover:brightness-110","children":"Voltar ao início"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],"p":false,"v":null},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L11",null,{"children":"$L12"}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":"$L15"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$16",[["$","link","0",{"rel":"stylesheet","href":"/NexoraForge.github.io/_next/static/chunks/2o7_pu9nf0mfn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"TKcZRmyQLFyj85O_JMDVt"}
 8:C
-11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-16:I[27201,["$2"],"IconMark"]
-e:null
-14:[["$","title","0",{"children":"Criar — Nexora Forge"}],["$","meta","1",{"name":"description","content":"Descreva o site que você quer e o agente constrói em tempo real."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L16","3",{}]]
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+17:I[27201,["$2"],"IconMark"]
+f:null
+15:[["$","title","0",{"children":"Criar — Nexora Forge"}],["$","meta","1",{"name":"description","content":"Descreva o site que você quer e o agente constrói em tempo real."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L17","3",{}]]
