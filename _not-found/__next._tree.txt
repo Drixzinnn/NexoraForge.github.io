@@ -1,4 +1,4 @@
 :HL["/NexoraForge.github.io/_next/static/chunks/2o7_pu9nf0mfn.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"TKcZRmyQLFyj85O_JMDVt","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"hQssU3C44sKyJ4vUMJkCV","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
